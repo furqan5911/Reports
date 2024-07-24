@@ -1,4 +1,4 @@
-```md
+
 # Training Feedback Survey for Digital Transformation at TechSolvers Inc.
 
 ## Introduction
@@ -142,7 +142,7 @@ This survey aims to capture the experiences and feedback of end-users participat
 Thank you for taking the time to provide your valuable feedback. Your contributions are crucial to the success of our digital transformation and will help us continue to improve our change management strategies and support systems.
 
 ![Digital Transformation](https://example.com/image.jpg)
-```
+
 
 ## Summary
 
