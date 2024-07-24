@@ -16,47 +16,58 @@
 
 ### Training Needs Matrix
 
-**Course Title:** Strategic Decision-Making Workshops
-**Course Description:** Training on utilizing advanced data analytics for strategic decision-making.
-**Module Name:** Strategic Decision-Making
-**Course Objectives:** Equip executive leadership with skills to leverage data for strategic business decisions.
-**Learning Objectives:** Understand advanced analytics, utilize KPIs, apply insights to strategic planning.
-**Medium of the Training:** PPT, case studies, interactive workshops.
-**Delivery Method:** Blended (online and in-person).
-**Duration:** 2 months.
-**Knowledge Level:** Advanced.
-**Deployment Timeline:** 2 Months.
-**Number of Sessions/Options Required:** Initial intensive sessions followed by periodic refreshers.
-**Stakeholder Group:** Executive Leadership.
-**Country:** All relevant locations.
+# Training Needs Matrix
 
-**Course Title:** CRM Software Training
-**Course Description:** Hands-on training on using the new CRM software.
-**Module Name:** CRM Software Use
-**Course Objectives:** Enable frontline employees to effectively use the new CRM system.
-**Learning Objectives:** Navigate new CRM software, manage customer data, enhance customer interactions.
-**Medium of the Training:** In-Person demonstrations, scenario-based exercises.
-**Delivery Method:** In-person.
-**Duration:** 3 months.
-**Knowledge Level:** Advanced.
-**Deployment Timeline:** 3 Months.
-**Number of Sessions/Options Required:** Detailed step-by-step training with ongoing support.
-**Stakeholder Group:** Frontline Employees.
-**Country:** All relevant locations.
+---
 
-**Course Title:** Advanced Analytics Tools Training
-**Course Description:** In-depth training on using advanced data analytics tools.
-**Module Name:** Advanced Analytics Tools
-**Course Objectives:** Equip the data analytics team with skills to leverage advanced tools for business insights.
-**Learning Objectives:** Use advanced analytics tools, integrate data, support strategic decision-making.
-**Medium of the Training:** Online courses, in-person sessions.
-**Delivery Method:** Blended (online and in-person).
-**Duration:** 2.5 months.
-**Knowledge Level:** Advanced.
-**Deployment Timeline:** 2.5 Months.
-**Number of Sessions/Options Required:** Initial sessions followed by advanced training and support.
-**Stakeholder Group:** Data Analytics Team.
-**Country:** All relevant locations.
+## Course Title: Strategic Decision-Making Workshops
+**Course Description:** Training on utilizing advanced data analytics for strategic decision-making.  
+**Module Name:** Strategic Decision-Making  
+**Course Objectives:** Equip executive leadership with skills to leverage data for strategic business decisions.  
+**Learning Objectives:** Understand advanced analytics, utilize KPIs, apply insights to strategic planning.  
+**Medium of the Training:** PPT, case studies, interactive workshops.  
+**Delivery Method:** Blended (online and in-person).  
+**Duration:** 2 months.  
+**Knowledge Level:** Advanced.  
+**Deployment Timeline:** 2 Months.  
+**Number of Sessions/Options Required:** Initial intensive sessions followed by periodic refreshers.  
+**Stakeholder Group:** Executive Leadership.  
+**Country:** All relevant locations.  
+
+---
+
+## Course Title: CRM Software Training
+**Course Description:** Hands-on training on using the new CRM software.  
+**Module Name:** CRM Software Use  
+**Course Objectives:** Enable frontline employees to effectively use the new CRM system.  
+**Learning Objectives:** Navigate new CRM software, manage customer data, enhance customer interactions.  
+**Medium of the Training:** In-Person demonstrations, scenario-based exercises.  
+**Delivery Method:** In-person.  
+**Duration:** 3 months.  
+**Knowledge Level:** Advanced.  
+**Deployment Timeline:** 3 Months.  
+**Number of Sessions/Options Required:** Detailed step-by-step training with ongoing support.  
+**Stakeholder Group:** Frontline Employees.  
+**Country:** All relevant locations.  
+
+---
+
+## Course Title: Advanced Analytics Tools Training
+**Course Description:** In-depth training on using advanced data analytics tools.  
+**Module Name:** Advanced Analytics Tools  
+**Course Objectives:** Equip the data analytics team with skills to leverage advanced tools for business insights.  
+**Learning Objectives:** Use advanced analytics tools, integrate data, support strategic decision-making.  
+**Medium of the Training:** Online courses, in-person sessions.  
+**Delivery Method:** Blended (online and in-person).  
+**Duration:** 2.5 months.  
+**Knowledge Level:** Advanced.  
+**Deployment Timeline:** 2.5 Months.  
+**Number of Sessions/Options Required:** Initial sessions followed by advanced training and support.  
+**Stakeholder Group:** Data Analytics Team.  
+**Country:** All relevant locations.  
+
+---
+
 
 ---
 
