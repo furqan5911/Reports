@@ -109,6 +109,6 @@ This document outlines the top 10 resistance management strategies for TechSolve
 These resistance management strategies are designed to ensure a smooth transition and minimize resistance throughout the digital transformation at TechSolvers Inc. By focusing on stakeholder involvement, clear communication, leadership engagement, comprehensive training, and continuous feedback, the organization can achieve its transformation goals while maintaining high levels of stakeholder satisfaction and engagement.
 
 ![Digital Transformation](https://example.com/image.jpg)
-```
+
 
 This document provides a structured approach to managing resistance during TechSolvers Inc.'s digital transformation, ensuring all stakeholders are engaged, informed, and supported throughout the process.
