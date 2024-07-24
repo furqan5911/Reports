@@ -119,6 +119,6 @@ This survey is designed to gather feedback from Change Champions who are integra
 Thank you for taking the time to provide your valuable feedback. Your contributions are crucial to the success of our digital transformation and will help us continue to improve our change management strategies and support systems.
 
 ![Digital Transformation](https://example.com/image.jpg)
-```
+
 
 This survey incorporates best practices by including questions that cover training and support, communication and engagement, implementation and adoption, and success metrics. It ensures comprehensive feedback from Change Champions that can guide future improvements in the digital transformation process.
