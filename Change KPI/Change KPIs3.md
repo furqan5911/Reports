@@ -153,7 +153,7 @@ This dashboard presents the user adoption statistics for the digital transformat
 This dashboard provides a comprehensive view of the user adoption statistics for TechSolvers Inc.'s digital transformation programme. It highlights the progress made in training, the impact on various stakeholders, and the overall health of the change management initiative. By continuously monitoring these metrics, TechSolvers Inc. can ensure the successful adoption and integration of new systems and processes, leading to improved operational efficiency and enhanced customer satisfaction.
 
 ![Digital Transformation](https://example.com/digital-transformation.jpg)
-```
+
 
 This markdown document presents a detailed user adoption dashboard for TechSolvers Inc., incorporating various categories of key performance indicators, training statistics, feedback metrics, and stakeholder impact analysis. The graphical format and structured sections make it easy to understand and provide a comprehensive overview of the progress and health of the digital transformation program.
 ```
