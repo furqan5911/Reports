@@ -162,6 +162,6 @@ Suppliers will receive regular email briefings, process adjustment manuals, and 
 This FAQ document aims to address the common questions and concerns from various stakeholder groups regarding the digital transformation at TechSolvers Inc. By providing clear information and robust support, we aim to ensure a smooth and successful transition for all stakeholders involved.
 
 ![Digital Transformation](https://example.com/image.jpg)
-```
+
 
 This comprehensive FAQ document ensures that all stakeholder groups are well-informed and supported throughout TechSolvers Inc.'s digital transformation. The structured approach to communication and training will facilitate a smooth transition and help achieve the strategic objectives of the organization.
