@@ -127,6 +127,6 @@ This survey aims to gather feedback from end users impacted by the digital trans
 Thank you for taking the time to provide your valuable feedback. Your contributions are crucial to the success of our digital transformation and will help us continue to improve our change management strategies and support systems.
 
 ![Digital Transformation](https://example.com/image.jpg)
-```
+
 
 This comprehensive survey ensures that all aspects of the users' experience are considered. It covers training effectiveness, communication and engagement, implementation and adoption, and success metrics. The objective is to gather actionable feedback that will support continuous improvement throughout the digital transformation at TechSolvers Inc.
