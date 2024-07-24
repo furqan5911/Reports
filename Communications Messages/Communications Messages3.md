@@ -129,6 +129,6 @@ TechSolvers Inc.
 By following these best practices, we aim to ensure smooth communication and successful adoption of our digital transformation initiatives.
 
 ![Digital Transformation](https://example.com/digital-transformation.jpg)
-```
+
 
 This document provides a structured approach to communicating the digital transformation at TechSolvers Inc., ensuring all stakeholders are well-informed, prepared, and supported throughout the process.
