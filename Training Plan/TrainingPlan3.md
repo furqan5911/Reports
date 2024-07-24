@@ -1,6 +1,6 @@
 Here's a comprehensive Training Plan table for the digital transformation at TechSolvers Inc., capturing details for each stakeholder group based on your inputs and analysis:
 
-```markdown
+
 # Digital Transformation Training Plan for TechSolvers Inc.
 
 | **Stakeholder Group**       | **Training Milestones**                               | **Training Tasks**                                                       | **Training Materials**                                                           | **Delivery Channels**                     | **Duration**             | **Timeline**                   | **Owner/Trainer**                        |
@@ -81,6 +81,6 @@ Here's a comprehensive Training Plan table for the digital transformation at Tec
   - **Owner**: Supply Chain Managers.
 
 This Training Plan ensures comprehensive and effective training for all stakeholders, facilitating TechSolvers Inc.'s seamless digital transformation.
-```
+
 
 This plan provides a structured approach to training, with clear timelines, responsibilities, and comprehensive materials that support a smooth transition for all involved stakeholders.
