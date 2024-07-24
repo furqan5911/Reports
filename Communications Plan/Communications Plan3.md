@@ -1,4 +1,4 @@
-md
+
 # Communications Plan for Digital Transformation at TechSolvers Inc.
 
 | **Communication Type** | **Communication Tactic Name** | **Description / Objectives** | **Key Messages** | **Channel(s)** | **Stakeholder(s) / Audience(s)** | **Event Date** | **Owner** | **Reviewer** | **Sender** | **Notes** | **Status** | **Evidence** |
