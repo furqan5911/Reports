@@ -1,4 +1,4 @@
-```md
+
 # Resistance Management Strategy Report
 
 ## Introduction
@@ -125,6 +125,6 @@ By implementing these resistance management strategies, the organization can eff
 *Change Management Timeline*
 
 By following this comprehensive resistance management strategy, all stakeholders will be actively engaged, adequately trained, and well-supported throughout the transformation journey.
-```
+
 
 **Note:** The URLs provided in the visuals are placeholders and should be replaced with actual URLs or images relevant to the content.
