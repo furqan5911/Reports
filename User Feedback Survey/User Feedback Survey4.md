@@ -1,4 +1,4 @@
-```md
+
 # Digital Transformation User Feedback Survey
 
 This survey aims to capture the experiences and feedback from users impacted by the ongoing digital transformation. Your input is valuable in ensuring a smooth transition and continuous improvement.
@@ -133,6 +133,5 @@ This survey aims to capture the experiences and feedback from users impacted by 
 ---
 
 Thank you for taking the time to complete this survey. Your feedback is invaluable in helping us improve our change management strategies and ensuring the success of our digital transformation.
-```
 
 This survey is designed to capture the comprehensive feedback of users impacted by the digital transformation. It will help in analyzing the effectiveness of change management strategies, the sufficiency of training programs, and the overall user experience, providing necessary insights for continuous improvement.
