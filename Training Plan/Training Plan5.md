@@ -1,4 +1,4 @@
-```markdown
+
 # Detailed Training Plan for Digital Transformation
 
 ## Introduction
@@ -34,5 +34,5 @@ This training plan is designed to support the digital transformation initiative 
 ## Conclusion
 
 This training plan is designed to provide comprehensive support to all stakeholder groups affected by the digital transformation. By addressing specific training needs, utilizing appropriate materials, and scheduling training effectively, we aim to ensure a smooth transition and successful adoption of new systems and processes.
-```
+
 This plan ensures that each stakeholder group receives the necessary training in a structured and timely manner, covering all required aspects to support the digital transformation initiative effectively.
