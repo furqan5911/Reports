@@ -1,4 +1,4 @@
-```markdown
+
 # Comprehensive Countdown Communication Messages for Digital Transformation
 
 ---
