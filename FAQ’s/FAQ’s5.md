@@ -1,4 +1,4 @@
-```markdown
+
 # Comprehensive FAQ Document for Digital Transformation
 
 ---
