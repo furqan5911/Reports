@@ -1,4 +1,4 @@
-```markdown
+
 # Comprehensive Resistance Management Strategies
 
 ## Introduction
