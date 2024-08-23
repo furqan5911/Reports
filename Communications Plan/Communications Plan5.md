@@ -1,4 +1,4 @@
-```markdown
+
 # Detailed Communications Plan for Digital Transformation
 
 ## Introduction
