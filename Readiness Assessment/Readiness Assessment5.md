@@ -1,4 +1,4 @@
-```markdown
+
 # Readiness Assessment Table for Digital Transformation
 
 ## Introduction
