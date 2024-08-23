@@ -1,4 +1,4 @@
-```markdown
+
 # User Feedback Survey: Digital Transformation Initiative
 
 ## Introduction
@@ -154,6 +154,6 @@ ____________________________________________________________________________
 Thank you for taking the time to complete this survey. Your feedback is invaluable in helping us refine our change management strategies and ensure a successful digital transformation for our organization.
 
 ![Change Management](https://via.placeholder.com/600x200)
-```
+
 
 Thank you for your participation and valuable insights. Your feedback will help us to improve our training and support strategies, ensuring a smooth and successful transition for all stakeholders involved in the digital transformation initiative.
