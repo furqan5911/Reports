@@ -92,7 +92,7 @@ This report outlines the readiness of TechSolvers Inc. for the upcoming digital 
 By focusing on these areas, TechSolvers Inc. can ensure a successful and seamless digital transformation, aligned with the strategic goals and long-term sustainability of the organization.
 
 ![Digital Transformation Roadmap](https://www.example.com/digital-transformation-roadmap.png)
-```
+
 
 **Figure 1:** Digital Transformation Roadmap
 
