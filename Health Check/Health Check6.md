@@ -69,7 +69,7 @@ This document presents a health check table to assess the digital transformation
 
 ## Dashboard Summary
 
-```md
+
 # Digital Transformation Health Check Summary
 
 ## Key Metrics
@@ -129,7 +129,7 @@ This document presents a health check table to assess the digital transformation
 
 ## Conclusion
 The health check assessment reveals that while TechSolvers Inc. has a solid foundation for its digital transformation program, there are key areas requiring attention. By addressing identified gaps and reinforcing strengths, the organization can achieve a successful and sustainable transformation.
-```
+
 
 ---
 
