@@ -240,7 +240,7 @@ The digital transformation at TechSolvers Inc. is a strategic initiative aimed a
 4. **Advanced Training Modules:** Provide advanced training sessions for stakeholders requiring deeper understanding of the new tools and systems.
 
 By implementing the recommendations and following the ADKAR model, TechSolvers Inc. can ensure a seamless transition to their digital transformation, fostering an environment of continuous improvement and sustained success.
-```
+
 
 ![ADKAR Model](https://www.example.com/adkar-model.png)
 
