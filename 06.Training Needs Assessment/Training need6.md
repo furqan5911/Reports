@@ -1,5 +1,5 @@
 
-Response: Here's a comprehensive Training Needs Assessment table tailored for TechSolvers Inc.'s digital transformation. Each row addresses the specific needs of different stakeholder groups based on the provided chat history:
+: Here's a comprehensive Training Needs Assessment table tailored for TechSolvers Inc.'s digital transformation. Each row addresses the specific needs of different stakeholder groups based on the provided chat history:
 
 ### Training Needs Assessment Table
 
