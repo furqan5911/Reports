@@ -1,0 +1,76 @@
+
+
+---
+
+## Distribution of Total Score (8) Among Sub-Indicators
+
+### Step 1: Weights of Sub-Indicators  
+The weights of the sub-indicators are as follows:  
+
+| **Sub-Indicator** | **Weight (%)** | **Decimal Equivalent** |
+|--------------------|----------------|-------------------------|
+| Sub-indicator 1    | 20%            | 0.20                   |
+| Sub-indicator 2    | 20%            | 0.20                   |
+| Sub-indicator 3    | 25%            | 0.25                   |
+| Sub-indicator 4    | 20%            | 0.20                   |
+| Sub-indicator 5    | 15%            | 0.15                   |
+
+---
+
+### Step 2: Divide Total Score (8) According to Weights  
+The score for each sub-indicator is calculated as:  
+\[
+\text{Score for each sub-indicator} = \text{Weight} \times 8
+\]
+
+| **Sub-Indicator** | **Weight (%)** | **Calculation**    | **Score** |
+|--------------------|----------------|--------------------|-----------|
+| Sub-indicator 1    | 20%            | \( 0.20 \times 8 \) | 1.6       |
+| Sub-indicator 2    | 20%            | \( 0.20 \times 8 \) | 1.6       |
+| Sub-indicator 3    | 25%            | \( 0.25 \times 8 \) | 2.0       |
+| Sub-indicator 4    | 20%            | \( 0.20 \times 8 \) | 1.6       |
+| Sub-indicator 5    | 15%            | \( 0.15 \times 8 \) | 1.2       |
+
+---
+
+### Step 3: Adjust Scores to Fit "Out of 2" Scale  
+Since the maximum score for each sub-indicator is **2**, we normalize the scores proportionally while ensuring their sum equals **8**.  
+
+The normalization formula:
+\[
+\text{Normalized Score} = \frac{\text{Score for Sub-Indicator}}{2} \times 2
+\]
+
+After applying this formula, the recalculated scores are the same as the original calculated scores:  
+
+| **Sub-Indicator** | **Score (Out of 2)** |
+|--------------------|----------------------|
+| Sub-indicator 1    | 1.6                  |
+| Sub-indicator 2    | 1.6                  |
+| Sub-indicator 3    | 2.0                  |
+| Sub-indicator 4    | 1.6                  |
+| Sub-indicator 5    | 1.2                  |
+
+---
+
+### Step 4: Verify Total Score  
+The sum of all sub-indicator scores:  
+\[
+1.6 + 1.6 + 2.0 + 1.6 + 1.2 = 8.0
+\]
+
+The total matches the required score of **8**.
+
+---
+
+### Final Result:
+
+| **Sub-Indicator** | **Weight (%)** | **Score (Out of 2)** |
+|--------------------|----------------|-----------------------|
+| Sub-indicator 1    | 20%            | 1.6                  |
+| Sub-indicator 2    | 20%            | 1.6                  |
+| Sub-indicator 3    | 25%            | 2.0                  |
+| Sub-indicator 4    | 20%            | 1.6                  |
+| Sub-indicator 5    | 15%            | 1.2                  |
+
+---
